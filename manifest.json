@@ -1,6 +1,6 @@
 {
-    "name": "lixi_wheel",
-    "short_name": "lixi_wheel",
+    "name": "Vòng quay lì xì",
+    "short_name": "Lì xì",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
